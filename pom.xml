@@ -19,40 +19,5 @@
    	<module>Oauth-authorization-server</module>
    	<module>Oauth-resource-server</module>
   </modules>
-
-<!--  
-  	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-parent</artifactId>
-			<version>2.6.6</version>
-		</dependency>
-		 <dependency>
-		      <groupId>junit</groupId>
-		      <artifactId>junit</artifactId>
-		      <scope>test</scope>
-	    </dependency>
-	</dependencies>
-
-  <build>
-    <pluginManagement>
-      <plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-				<version>2.6.6</version>
-			</plugin>
-			
-		<plugin>
-		    <groupId>org.apache.maven.plugins</groupId>
-		    <artifactId>maven-compiler-plugin</artifactId>
-		    <configuration>
-		        <source>1.8</source>
-		        <target>1.8</target>
-		    </configuration>
-		</plugin>	
-      </plugins>
-    </pluginManagement>
-  </build>
--->
+  
 </project>
